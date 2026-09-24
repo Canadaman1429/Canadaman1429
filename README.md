@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Alex
 
-<!--
-**Canadaman1429/Canadaman1429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Maryland, College Park, specializing in Cybersecurity. 
+Focused on systems programming, network security analysis, and software development.
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
+- **Languages:** C, C++, Java, MIPS Assembly, SQL, Bash, PowerShell
+- **Tools & Platforms:** Linux CLI, Wireshark, VirtualBox, WSL, Git/GitHub, LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Repositories
+- **[Pong Game Clone](./Pong-Project-in-C):** C implementation featuring game-loop rendering, collision detection, and custom memory management.
+
+📫 **Reach Me:** [LinkedIn](https://linkedin.com/in/alexyue1429) | alexfyue@gmail.com
